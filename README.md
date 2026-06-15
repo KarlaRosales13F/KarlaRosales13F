@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://i.ibb.co/bMWm6F8c/anime-profile.png" width="220" style="border-radius: 15px; border: 2px solid #0A2540;" alt="Karla Profile Image"/>
+  <img src="https://media0.giphy.com/media/TLnWsIBRegQyWxG4Dw/giphy.gif" width="220" style="border-radius: 15px; border: 2px solid #0A2540;" alt="Karla Profile GIF"/>
   
   <br><br>
 
@@ -10,7 +10,7 @@
   <br>
 
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-yellow?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/LOCATION-QUITO%2C%20ECUADOR-blue?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/LOCATION-ECUADOR-blue?style=for-the-badge" alt="Location"/>
   <img src="https://img.shields.io/badge/STUDYING-UNIVERSIDAD%20UTE-red?style=for-the-badge" alt="University"/>
 
   <br><br>
@@ -21,17 +21,18 @@
 
 ### 🎓 Sobre Mí
 
-¡Hola! Soy estudiante de último semestre de la **Tecnología en Desarrollo de Software en la Universidad UTE (Quito)**. Me considero una desarrolladora Full Stack en constante formación, orientada a la resolución de problemas y al diseño de aplicaciones web y móviles sólidas.
+¡Hola! Soy estudiante de último semestre de la **Tecnología en Desarrollo de Software en la Universidad UTE (Quito)**. Me considero una desarrolladora Full Stack en constante formación, orientada a la resolución de problemas. 
 
 - 🎓 Próxima a graduarme como Tecnóloga en Desarrollo de Software.
-- 🚀 **Objetivo Profesional:** Buscando activamente mi primera oportunidad laboral para aportar mis conocimientos, ganar experiencia real y enfocarme en la creación de proyectos de software impactantes.
+- 🎨 **Mi Pasión:** Si bien manejo el Full Stack, mi enfoque preferente y pasión se inclinan hacia el **Frontend**, donde disfruto creando interfaces intuitivas y experiencias de usuario sólidas.
+- 🚀 Buscando activamente mi primera oportunidad laboral para aportar mis conocimientos, ganar experiencia real y enfocarme en la creación de proyectos de software impactantes.
 - 🤝 Me encanta el trabajo en equipo, compartir código y afrontar nuevos retos tecnológicos.
 
 ---
 
 ### 🚀 Proyecto Destacado
 
-#### 💳 Loyaltee
+#### 💳 Loyalty (¡Corregido! 😎)
 Es una plataforma Full Stack desarrollada para gestionar programas de fidelización de clientes. Cuenta con un backend robusto enfocado en la automatización de incentivos y una interfaz intuitiva para mejorar la retención de usuarios en negocios locales.
 * 💼 **¿Te interesa esta app para tu negocio?** Estoy completamente abierta a conversar, adaptar la plataforma a tus necesidades o discutir ideas de implementación. ¡Hablemos!
 
@@ -42,12 +43,12 @@ Es una plataforma Full Stack desarrollada para gestionar programas de fidelizaci
 #### 💻 Lenguajes de Programación
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-#### 🎨 Frontend
+#### 🎨 Frontend (¡Mi enfoque principal!)
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
@@ -69,6 +70,7 @@ Es una plataforma Full Stack desarrollada para gestionar programas de fidelizaci
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
