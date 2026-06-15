@@ -4,13 +4,12 @@
   
   <br><br>
 
-  <h1><font color="#0A2540" face="Georgia">Karla Alejandra Rosales</font></h1>
-  <h3><font color="#4A607A" face="Arial">Full Stack Developer In Training</font></h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=3500&pause=1000&color=0A2540&center=true&vCenter=true&width=700&height=60&lines=Karla+Rosales;Full+Stack+Developer+In+Training" alt="Typing SVG" />
 
   <br>
 
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-yellow?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/LOCATION-ECUADOR-blue?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/LOCATION-QUITO%2C%20ECUADOR-blue?style=for-the-badge" alt="Location"/>
   <img src="https://img.shields.io/badge/STUDYING-UNIVERSIDAD%20UTE-red?style=for-the-badge" alt="University"/>
 
   <br><br>
@@ -32,7 +31,7 @@
 
 ### 🚀 Proyecto Destacado
 
-#### 💳 Loyalty (¡Corregido! 😎)
+#### 💳 Loyalty
 Es una plataforma Full Stack desarrollada para gestionar programas de fidelización de clientes. Cuenta con un backend robusto enfocado en la automatización de incentivos y una interfaz intuitiva para mejorar la retención de usuarios en negocios locales.
 * 💼 **¿Te interesa esta app para tu negocio?** Estoy completamente abierta a conversar, adaptar la plataforma a tus necesidades o discutir ideas de implementación. ¡Hablemos!
 
@@ -43,9 +42,9 @@ Es una plataforma Full Stack desarrollada para gestionar programas de fidelizaci
 #### 💻 Lenguajes de Programación
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 #### 🎨 Frontend (¡Mi enfoque principal!)
@@ -70,7 +69,6 @@ Es una plataforma Full Stack desarrollada para gestionar programas de fidelizaci
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
